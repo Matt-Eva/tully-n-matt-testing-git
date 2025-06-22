@@ -1,3 +1,3 @@
 function sayHi() {
-  console.log("groober");
+  console.log("hi");
 }
